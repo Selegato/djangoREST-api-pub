@@ -30,6 +30,8 @@ This project is a Django application designed to manage customer information and
 
 - **RANDOM DATA GENERATION**:  Random data genarated by FAKER
 
+- **DOCKER**:  Dabatase is a docker container
+
 
 
 ## Environment Setup
